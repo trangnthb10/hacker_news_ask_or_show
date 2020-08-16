@@ -5,4 +5,4 @@
 - Find out whether the number of comments is driven by time
 
 **Data set**
-- A data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/) that is published publicly on [Kaggle] (https://www.kaggle.com/hacker-news/hacker-news-posts)
+- A data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/) that is published publicly on [Kaggle](https://www.kaggle.com/hacker-news/hacker-news-posts)
